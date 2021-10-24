@@ -9,14 +9,14 @@ You will need to have a version of the H2EK to get a tagset.
 
 * For the Windows store version, you can buy the Steam version at 
   https://store.steampowered.com/app/1064270/Halo_2_Anniversary/ and
-  then download the MCC Halo 2 Mod tools at
+  then download the MCC Halo 2 Mod Tools at
   https://store.steampowered.com/app/1613450/Halo_2_Mod_Tools__MCC/
 
 * For Halo 2 Vista, the H2EK can be installed from the disc that came with the
   game.
 
 The usage for this tool is:
-`halo2-color-plate-extractor <tags> <data> <tag-path|"all"|"all-overwrite">`
+`halo2-color-plate-extractor <tags-dir> <data-dir> <tag-path|"all"|"all-overwrite">`
 
 * `<tags-dir>` is the path to your tags directory.
 * `<data-dir>` is the path to your data directory.

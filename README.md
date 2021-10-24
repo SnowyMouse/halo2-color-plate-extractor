@@ -16,7 +16,10 @@ You will need to have a version of the H2EK to get a tagset.
   game.
 
 The usage for this tool is:
-`halo2-color-plate-extractor <tags-dir> <data-dir> <tag-path|"all"|"all-overwrite">`
+
+```
+halo2-color-plate-extractor <tags-dir> <data-dir> <tag-path|"all"|"all-overwrite">
+```
 
 * `<tags-dir>` is the path to your tags directory.
 * `<data-dir>` is the path to your data directory.

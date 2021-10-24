@@ -40,7 +40,7 @@ static void dump_single_bitmap_worker(const std::filesystem::path *tags, const s
 
 int main(int argc, const char **argv) {
     if(argc != 4) {
-        std::printf("Usage: %s <tags> <data> <tag-path|\"all\"|\"all-overwrite\">\n", argv[0]);
+        std::printf("Usage: %s <tags-dir> <data-dir> <tag-path|\"all\"|\"all-overwrite\">\n", argv[0]);
         return EXIT_FAILURE;
     }
 
